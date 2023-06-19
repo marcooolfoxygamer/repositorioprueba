@@ -1,6 +1,6 @@
 # Sistema de información para el gimnasio del CEET _GymSenApp_
 
-![Logo GymSenApp](./web/Images/LogoGsA.png){width="40"}
+![Logo GymSenApp](./web/Images/LogoGsA.png){width="40" height="40"}
 
 > **Tu gimnasio sena al alcance de tus manos**
 
