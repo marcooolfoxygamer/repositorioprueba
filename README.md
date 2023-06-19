@@ -4,11 +4,8 @@
 <!-- ![Logo GymSenApp](https://github.com/marcooolfoxygamer/repositorioprueba.git/main/web/Images/LogoGsA.png){width='40px'} -->
 
 <!-- ![Logo GymSenApp](https://raw.github.com/marcooolfoxygamer/repositorioprueba/main/web/Images/LogoGsA.png){width=40px height=40px} -->
-<div>
-	<p style='text-align:center;'>
-		<img src='./web/Images/LogoGsA.png' alt="Logo GymSenApp" width="100px">
-	</p>
-</div>
+<img src='./web/Images/LogoGsA.png' alt="Logo GymSenApp" width="150px">
+
 
 
 > **Tu gimnasio sena al alcance de tus manos**
