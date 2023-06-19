@@ -6,7 +6,9 @@
 <!-- ![Logo GymSenApp](https://raw.github.com/marcooolfoxygamer/repositorioprueba/main/web/Images/LogoGsA.png){width=40px height=40px} -->
 <img src='./web/Images/LogoGsA.png' alt="Logo GymSenApp" width="200px">
 
-![Logo GymSenApp](https://raw.github.com/marcooolfoxygamer/repositorioprueba/main/web/Images/LogoGsA.png | width=40)
+<p align="center">
+	<img src='./web/Images/LogoGsA.png' alt="Logo GymSenApp" width="200px">
+</p>
 
 
 > **Tu gimnasio sena al alcance de tus manos**
