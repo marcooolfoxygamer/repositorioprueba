@@ -6,7 +6,7 @@
 <!-- <img src='./web/Images/LogoGsA.png' alt="Logo GymSenApp" width="200px"> -->
 
 <p align="center">
-	<img src='./web/Images/LogoGsA.png' alt="Logo GymSenApp" width="250px">
+	<img src='./web/Images/LogoGsA.png' alt="Logo GymSenApp" width="200px">
 </p>
 
 
