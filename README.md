@@ -10,7 +10,6 @@
 	<img src='./web/Images/LogoGsA.png' alt="Logo GymSenApp" width="200px">
 </p>
 
-![Logo GymSenApp](./web/Images/LogoGsA.png){ width: 40px; }
 
 
 > **Tu gimnasio sena al alcance de tus manos**
