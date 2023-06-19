@@ -1,6 +1,6 @@
 # Sistema de información para el gimnasio del CEET _GymSenApp_
 
-![Logo GymSenApp](./web/Images/LogoGsA.png){width='40px'}
+![Logo GymSenApp](./web/Images/LogoGsA.png | width=40)
 <!-- ![Logo GymSenApp](https://github.com/marcooolfoxygamer/repositorioprueba.git/main/web/Images/LogoGsA.png){width='40px'} -->
 
 <!-- ![Logo GymSenApp](https://raw.github.com/marcooolfoxygamer/repositorioprueba/main/web/Images/LogoGsA.png){width=40px height=40px} -->
