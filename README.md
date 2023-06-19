@@ -1,5 +1,8 @@
 # Sistema de información para el gimnasio del CEET _GymSenApp_
 
+![Logo GymSenApp]
+(https://github.com/marcooolfoxygamer/repositorioprueba.git/main/web/Images/Logo_GsA-removebg-preview.png)
+
 > **Tu gimnasio sena al alcance de tus manos**
 
 # Documentación importante
