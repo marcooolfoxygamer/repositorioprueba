@@ -6,7 +6,7 @@
 <p align="center">
 	<img src='./web/Images/LogoGsA.png' alt="Logo GymSenApp" width="200px">
 </p>
-![Logo GymSenApp](https://raw.github.com/marcooolfoxygamer/repositorioprueba/main/web/Images/LogoGsA.png =40x)
+![Logo GymSenApp](https://raw.github.com/marcooolfoxygamer/repositorioprueba/main/web/Images/LogoGsA.png =x40)
 
 
 > **Tu gimnasio sena al alcance de tus manos**
